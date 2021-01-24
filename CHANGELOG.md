@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.0.0-alpha1](https://github.com/davidrunger/vue-chartjs/compare/develop...vue-3) (2021-01-24)
+
+### Features
+
+* Vue 3 compatiblity
+
 ### [3.5.1](https://github.com/apertureless/vue-chartjs/compare/v3.5.0...v3.5.1) (2020-08-22)
 
 
